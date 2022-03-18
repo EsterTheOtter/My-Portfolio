@@ -21,6 +21,6 @@ object: a container that holds multiple values
 let x= 'Hello'
 let y= 'Bonjour'
 console.log(y)
-The above: var x is called to be displayed onto the console. It's 'property' or 'value' is then presented
+The above: var x is called to be displayed onto the console. Its 'property' or 'value' is then presented
 
 */
